@@ -1,0 +1,6 @@
+# ide
+.idea
+storage
+main
+.env
+go.sum
